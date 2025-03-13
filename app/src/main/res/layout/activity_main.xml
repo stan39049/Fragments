@@ -10,9 +10,8 @@
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView3"
         android:name="edu.temple.fragments.ColorFragment"
-        android:layout_width="200dp"
-        android:layout_height="400dp"
-        android:layout_marginStart="194dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
